@@ -4,6 +4,7 @@ body {
   color: #333333;
   margin: 0;
   padding: 0;
+  line-height: 150%;
 }
 
 header {
@@ -13,6 +14,10 @@ header {
 h1 {
   color: #eee;
   font-size: 28px;
+  text-align: center;
+  margin: auto;
+  padding: 20px 0;
+  margin-bottom: 20px;
 }
 
 #main-bio {
@@ -34,4 +39,9 @@ h1 {
 
 a {
   color: #d21034;
+}
+
+.container {
+  width: 1024px;
+  margin: auto;
 }
